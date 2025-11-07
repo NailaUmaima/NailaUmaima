@@ -1,11 +1,6 @@
-👋🏻 Hi there, I'm Naila Umaima
-
-
+# 👋🏻 Hi there, I'm Naila Umaima<br/>
 💻 Python|Data Science|GenAI|Agentic AI<br/>
 🎯 Passionate about using Artificial Intelligence to build real-world,human-centered solutions<br/>
-
-🚀About Me
-
 🎓 Computer Science and Engineering with AIML<br/>
 🧠 Exploring Agentic,Generative AI,AI,MAchine Learning,and Data-Driven Applications<br/>
 💬 Love working with Python and uncovering insights through data<br/>
